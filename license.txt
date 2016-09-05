@@ -1,5 +1,7 @@
 License of source code
 ----------------------
+
+GNU Lesser General Public License, version 2.1
 Copyright (C) 2016 sofar (sofar@foo-projects.org)
 
 This program is free software; you can redistribute it and/or modify it under the terms
